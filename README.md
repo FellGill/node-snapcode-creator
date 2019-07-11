@@ -19,3 +19,5 @@ snapcode.create("blablabla", "SVG", function(res) {
 	console.log(res); // Return SVG object
 })
 ```
+
+Module creates basic by [Ortee](https://github.com/Ortee/snapcode/blob/master/package.json "Ortee")

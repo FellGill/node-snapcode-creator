@@ -1,0 +1,17 @@
+{
+  "name": "node-snapcode-creator",
+  "version": "0.0.1",
+  "description": "Create a Snapcode in nodeJS with a Snapchat username and image type",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FellGill/node-snapcode-creator.git"
+  },
+  "author": {
+    "name": "FellGill"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
